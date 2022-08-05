@@ -3,7 +3,7 @@
     <div class="max-w-5xl mx-auto">
     <div class="sm:flex sm:items-center sm:justify-between">
       <a href="https://Zakir Hossen.com/" class="flex items-center mb-4 sm:mb-0">
-        <img src="https://zakirhossen.com/_nuxt/img/logo-white.e9fbf76.png" class="shadow mr-3 h-8" alt="Zakir Hossen Logo">
+        <img src="https://zakirhossen.com/_nuxt/img/logo-white.e9fbf76.png" class="shadow mr-3 h-8 rounded-full" alt="Zakir Hossen Logo">
         <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Zakir Hossen</span>
       </a>
       <ul class="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
