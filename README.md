@@ -1,4 +1,7 @@
-# Nuxt 3 Minimal Starter
+# Open Source, Personal Portfolio Template
+Hello, Everyone! I am Zakir, Working on my new personal portfolio template.
+
+#  Installation Guide
 
 Look at the [nuxt 3 documentation](https://v3.nuxtjs.org) to learn more.
 
