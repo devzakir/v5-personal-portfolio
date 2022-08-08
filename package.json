@@ -14,5 +14,8 @@
     "@tailwindcss/typography": "^0.5.4",
     "nuxt": "3.0.0-rc.6",
     "standard-version": "^9.5.0"
+  },
+  "dependencies": {
+    "flowbite": "^1.5.1"
   }
 }
