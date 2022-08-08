@@ -1,0 +1,416 @@
+[
+  {
+     "title":"Offline Code Editor",
+     "items":[
+        {
+           "image":"/resources/vscode.png",
+           "url":"https://code.visualstudio.com/",
+           "title":" VS Code ",
+           "description":"Visual Studio Code is a free code editor redefined and optimized for building and debugging modern web and cloud applications."
+        },
+        {
+           "image":"/resources/sublime.png",
+           "url":"https://www.sublimetext.com",
+           "title":" Text Sublime 3 ",
+           "description":"Sublime Text is a sophisticated text editor for code, markup and prose. You'll love the slick user "
+        },
+        {
+           "image":"/resources/atom.png",
+           "url":"https://atom.io/",
+           "title":"Atom Editor",
+           "description":"Atom is a desktop application built with HTML, JavaScript, CSS, and Node.js integration. "
+        }
+     ]
+  },
+  {
+     "title":"Online Code Editor",
+     "items":[
+        {
+           "image":"/resources/codepen.png",
+           "url":"https://codepen.io/",
+           "title":"Codepen",
+           "description":"CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor ."
+        },
+        {
+           "image":"/resources/jsfiddle.png",
+           "url":"https://jsfiddle.net/",
+           "title":"JS Fiddle",
+           "description":"Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor."
+        },
+        {
+           "image":"/resources/codesandbox.png",
+           "url":"https://codesandbox.io/",
+           "title":"Code Sandbox",
+           "description":"CodeSandbox is an online code editor and prototyping tool that makes creating and sharing web apps faster."
+        }
+     ]
+  },
+  {
+     "title":"HTML5 Resources",
+     "items":[
+        {
+           "image":"/resources/mdn.png",
+           "url":"https://developer.mozilla.org/en-US/docs/Web/HTML/Element",
+           "title":"HTML  Reference",
+           "description":"You don't need to know every HTML5 element.I just use this excellent reference all the time."
+        },
+        {
+           "image":"/resources/w3schools.png",
+           "url":"https://www.w3schools.com/html/default.asp",
+           "title":"w3schools.com",
+           "description":"The World's Largest Web Developer Site.W3schools.com.The World 's Largest Web Developer Site. "
+        },
+        {
+           "image":"/resources/youtube.png",
+           "url":"https://www.youtube.com/playlist?list=PLgGbWId6zgaWZkPFI4Sc9QXDmmOWa1v5F",
+           "title":"HTML & CSS in 30 Days (Youtube)",
+           "description":"Learn HTML and CSS in 30 Days with Tuts Plus Full Course. It covers almost everything you need know to become a Web Designer."
+        },
+        {
+           "image":"/resources/css-tricks-3.png",
+           "url":"https://css-tricks.com/snippets/html/glyphs/",
+           "title":"HTML Entity  Reference",
+           "description":"Super useful reference, gives you HTML entitiy name, numeric code, hex code and ISO code."
+        },
+        {
+           "image":"/resources/html-cheat.png",
+           "url":"https://websitesetup.org/html5-cheat-sheet/",
+           "title":"HTML Cheat Sheet",
+           "description":"A very handy printable HTML5 cheat sheet that can save you a ton of time."
+        }
+     ]
+  },
+  {
+     "title":"CSS3 Resources",
+     "items":[
+        {
+           "image":"/resources/mdn.png",
+           "url":"https://developer.mozilla.org/en-US/docs/Web/HTML/Element",
+           "title":"CSS3  Reference MDN",
+           "description":"As with HTML5, you don't need to know every CSS3 property.Use this reference instead."
+        },
+        {
+           "image":"/resources/w3schools.png",
+           "url":"https://www.w3schools.com/html/default.asp",
+           "title":"Tutorial by  w3schools.com",
+           "description":"Well organized and easy to understand Web building tutorials with lots of examples of how to use HTML,  CSS to make the Awesome Web."
+        },
+        {
+           "image":"/resources/codrops.png",
+           "url":"http://tympanus.net/codrops/css_reference/",
+           "title":"CSS3 Reference by  Codrops",
+           "description":"Another excellent CSS3 reference, this time from Codrops. Make sure to check this one out, too."
+        },
+        {
+           "image":"/resources/tutplus.png",
+           "url":"http://code.tutsplus.com/tutorials/the-30-css-selectors-you-must-memorize--net-16048",
+           "title":"30 CSS Selectors by Tutplus",
+           "description":"I find myself using this handy list of the 30 most important CSS selectors from Tutplus all the time."
+        },
+        {
+           "image":"/resources/animatecss.png",
+           "url":"http://daneden.github.io/animate.css/",
+           "title":"Animate.css",
+           "description":"Just-add-water CSS animations. A simple CSS library that lates you add animations with ease."
+        },
+        {
+           "image":"/resources/responsivegrid.png",
+           "url":"http://www.responsivegridsystem.com/",
+           "title":"Responsive Grid System",
+           "description":"This is the Responsive Grid System, a quick, easy and flexible way to create a responsive web site."
+        },
+        {
+           "image":"/resources/clippy.png",
+           "url":"https://bennettfeely.com/clippy/",
+           "title":"Clippy Clip Path Generator",
+           "description":"A small tool to help you using the new and powerful clip-path property."
+        },
+        {
+           "image":"/resources/cubic.png",
+           "url":"https://cubic-bezier.com/",
+           "title":"Cubic-bezier function generator",
+           "description":"A tool for visually generating timing animation functions to use in CSS transitions and animations."
+        }
+     ]
+  },
+  {
+     "title":"JavaScript Resources",
+     "items":[
+        {
+           "image":"/resources/javascript-info.png",
+           "url":"https://javascript.info/",
+           "title":"JavaScript.info",
+           "description":"Modern JavaScript Tutorial: simple, but detailed explanations with examples and tasks, including: closures, document and events, object oriented programming"
+        },
+        {
+           "image":"/resources/eloquentjs.png",
+           "url":"https://eloquentjavascript.net/",
+           "title":"Eloquent Javascript",
+           "description":"Though simple for beginners to pick up and play with, JavaScript is a flexible, complex language that you can use to build full-scale applications."
+        },
+        {
+           "image":"/resources/mdn.png",
+           "url":"https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide",
+           "title":"MDN  JS Guide",
+           "description":"Another reference by MDN, this one is for JavaScript. This is pretty advanced stuff."
+        },
+        {
+           "image":"/resources/github.png",
+           "url":"https://github.com/getify/You-Dont-Know-JS/blob/master/README.md",
+           "title":"You dont know JS ",
+           "description":"This is a series of books diving deep into the core mechanisms of the JavaScript language. This is the second edition of the book series:"
+        },
+        {
+           "image":"/resources/freecodecamp.png",
+           "url":"https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/basic-javascript/",
+           "title":"FreeCodeCamp",
+           "description":"JavaScript Algorithms and Data Structures will teach you basic JavaScript in a series of challenges. It  will teach you how to assign variables, arrays,create functions, and some of the various loop types used in JavaScript."
+        },
+        {
+           "image":"/resources/github.png",
+           "url":"https://github.com/rwaldron/idiomatic.js",
+           "title":"Principles of Writing  JavaScript",
+           "description":"JavaScript is a curious language. It's easy to write, but difficult to master.By the end of this article, hopefully, you 'll transform your spaghetti code into a five-course meal, full of readable,maintainable yumminess!"
+        },
+        {
+           "image":"/resources/es6-compat.png",
+           "url":"https://kangax.github.io/compat-table/es6/",
+           "title":"ES6 Browser  Compatibility Table",
+           "description":"Check out all the new ES2015/ES6 features supported by the most popular browsers."
+        }
+     ]
+  },
+  {
+     "title":"Fonts",
+     "items":[
+        {
+           "image":"/resources/googlefonts.png",
+           "url":"https://fonts.google.com/",
+           "title":"Google Fonts",
+           "description":"The #1 resource for free and easy-to-use webfonts. Has a huge library of fonts."
+        },
+        {
+           "image":"/resources/creativeblog.jpg",
+           "url":"https://www.creativebloq.com/graphic-design-tips/best-free-fonts-for-designers-1233380",
+           "title":"The 100 best free fonts by Creative Bloq",
+           "description":"List of free fonts, from vintage-inspired typefaces to slab serifs, for a range of projects."
+        },
+        {
+           "image":"/resources/fontspace.png",
+           "url":"https://www.fontspace.com/",
+           "title":"Font Space",
+           "description":"Free downloads of legally licensed fonts that are perfect for your design projects. The best place in the universe to search for amazing fonts."
+        }
+     ]
+  },
+  {
+     "title":"Colors and Tools",
+     "items":[
+        {
+           "image":"/resources/flatuicolors.png",
+           "url":"http://flatuicolors.com/",
+           "title":"Flat UI Colors",
+           "description":"A good starting point for choosing a flat design color for your next project."
+        },
+        {
+           "image":"/resources/materialpalette.jpg",
+           "url":"http://www.materialpalette.com",
+           "title":"Material Palette",
+           "description":"Another great set of colors, inspired in material design. Generate and download your palette."
+        },
+        {
+           "image":"/resources/colorhunt.gif",
+           "url":"http://www.colorhunt.co",
+           "title":"Colorhunt",
+           "description":"Don't know what colors to use for your website ? Colorhunt helps you with beautiful color palettes."
+        },
+        {
+           "image":"/resources/uigradients.png",
+           "url":"http://uigradients.com",
+           "title":"UI Gradients",
+           "description":"Collection of beautiful color gradients for you to choose from and export to your project."
+        },
+        {
+           "image":"/resources/lolcolors.png",
+           "url":"https://www.webdesignrankings.com/resources/lolcolors/",
+           "title":"Lol Colors",
+           "description":"Curated color palettes inspiration. Another source for great color palettes."
+        }
+     ]
+  },
+  {
+     "title":"Image and Graphic",
+     "items":[
+        {
+           "image":"/resources/unsplash.png",
+           "url":"https://unsplash.com",
+           "title":"Unsplash",
+           "description":"My #1 resource for free high-resolution photos. 10 new photos every 10 days."
+        },
+        {
+           "image":"/resources/burst.jpg",
+           "url":"https://burst.shopify.com/",
+           "title":"Shopify Brust",
+           "description":"Browse thousands of beautiful copyright-free images. All our pictures are free to download for personal and commercial use, no attribution required."
+        },
+        {
+           "image":"/resources/subtlepatterns.png",
+           "url":"http://subtlepatterns.com/",
+           "title":"Subtle Patterns",
+           "description":"High quality resource of tilable textured patterns, completely free to use."
+        },
+        {
+           "image":"/resources/placeit.png",
+           "url":"https://placeit.net/",
+           "title":"PlaceIt",
+           "description":"Instant iPhone and Macbook mockups. Just place your screenshot on a device, no Photoshop."
+        },
+        {
+           "image":"/resources/canva.png",
+           "url":"https://placeit.net/",
+           "title":"Canva",
+           "description":"Easily create beautiful designs with drag-and-drop features and professional layouts."
+        }
+     ]
+  },
+  {
+     "title":"Icons and Webfont",
+     "items":[
+        {
+           "image":"/resources/fontawesome.png",
+           "url":"https://fontawesome.com",
+           "title":"Font Awesome",
+           "description":"The world's most popular and easiest to use icon set just got an upgrade.More icons.More styles.More Options. "
+        },
+        {
+           "image":"/resources/iconfont.png",
+           "url":"https://icofont.com",
+           "title":"Ico Font",
+           "description":"IcoFont is an icon font application that contains 2100+ icons in a single font. Download the font for free or build icons bundle and download custom buildfont.</p>          "
+        },
+        {
+           "image":"/resources/bootstrap.png",
+           "url":"https://icons.getbootstrap.com",
+           "title":"Bootstrap Icon",
+           "description":"Official open source SVG icon library for Bootstrap."
+        },
+        {
+           "image":"/resources/flaticon.png",
+           "url":"https://www.flaticon.com",
+           "title":"Flaticon",
+           "description":"The largest database of free icons available in PNG, SVG, EPS and PSD. It's even searchable."
+        },
+        {
+           "image":"/resources/placeit.png",
+           "url":"https://placeit.net/",
+           "title":"PlaceIt",
+           "description":"Instant iPhone and Macbook mockups. Just place your screenshot on a device, no Photoshop."
+        }
+     ]
+  },
+  {
+     "title":"Design Inspiration",
+     "items":[
+        {
+           "image":"/resources/dribbble.png",
+           "url":"https://dribbble.com/",
+           "title":" Dribbble ",
+           "description":"The ultimate design inspiration resource, not just for web design. The show and tell for designers."
+        },
+        {
+           "image":"/resources/landbook.jpg",
+           "url":"https://land-book.com/",
+           "title":" Land Book ",
+           "description":"Product landing page gallery. My #1 inspiration resource when I build a landing page."
+        },
+        {
+           "image":"/resources/onepagelove.png",
+           "url":"https://onepagelove.com/",
+           "title":"One Page Love",
+           "description":"The ultimate showcase of delicious One Page websites."
+        }
+     ]
+  },
+  {
+     "title":"Code Inspiration and Communities",
+     "items":[
+        {
+           "image":"/resources/codepen.png",
+           "url":"https://codepen.io/",
+           "title":"Codepen",
+           "description":"CodePen is an online community for testing and showcasing user-created HTML, CSS and JavaScript code snippets. It functions as an online code editor ."
+        },
+        {
+           "image":"/resources/codrops.png",
+           "url":"http://tympanus.net/codrops/",
+           "title":"Codrops",
+           "description":"Another blog, writing articles and tutorials about latest web trends, techniques and new possibilities. "
+        },
+        {
+           "image":"/resources/smashingmagazine.png",
+           "url":"https://www.smashingmagazine.com/",
+           "title":"Smashing Magazine",
+           "description":"A very popular web design and development blog, writing about all things coding and designing.</p>          "
+        },
+        {
+           "image":"/resources/stackoverflow.png",
+           "url":"https://stackoverflow.com/",
+           "title":"Stack Overflow",
+           "description":"The biggest programmer community. Ask and find answers to HTML, CSS and JS questions."
+        },
+        {
+           "image":"/resources/github.png",
+           "url":"https://github.com/",
+           "title":"Github",
+           "description":"GitHub brings together the world's largest community of developers to discover, share, and build better software.From open source projects to private team "
+        },
+        {
+           "image":"/resources/devto.png",
+           "url":"https://dev.to/",
+           "title":"Dev.to",
+           "description":"Where programmers share ideas and help each other grow—A constructive and inclusive social network."
+        }
+     ]
+  },
+  {
+     "title":"PLANNING, TESTING, OPTIMIZATION AND DEPLOYMENT",
+     "items":[
+        {
+           "image":"/resources/w3c.png",
+           "url":"https://validator.w3.org/",
+           "title":"HTML Validator by W3C",
+           "description":"Check if your HTML markup is valid and contains no errors. Official W3C tool."
+        },
+        {
+           "image":"/resources/w3c.png",
+           "url":"https://jigsaw.w3.org/css-validator/",
+           "title":"CSS Validator by W3C",
+           "description":"Check if your CSS code is valid and contains no errors. Official W3C tool."
+        },
+        {
+           "image":"/resources/tinypng.png",
+           "url":"https://tinypng.com/",
+           "title":"Tinypng",
+           "description":"Make your website faster and save bandwidth. TinyPNG optimizes your PNG images by 50-80% while preserving full transparency!"
+        },
+        {
+           "image":"/resources/responsinator.png",
+           "url":"https://www.responsinator.com/",
+           "title":"Responsinator",
+           "description":"The Responsinator is designed to test responsive websites on different device resolutions."
+        },
+        {
+           "image":"/resources/googledev.png",
+           "url":"https://developers.google.com/speed/pagespeed/insights/",
+           "title":"Google PageSpeed Insights",
+           "description":"Quick tool to test your webpage for performance on all devices."
+        },
+        {
+           "image":"/resources/git.png",
+           "url":"https://git-scm.com/",
+           "title":"Git - Version Control System",
+           "description":"Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency."
+        }
+     ]
+  }
+]

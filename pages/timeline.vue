@@ -1,7 +1,10 @@
 <template>
-  <div class="py-16 bg-gray-100">
-    <div class="max-w-5xl mx-auto ">
-      <h1 class="text-4xl text-center">Hello world</h1>
+  <div class="bg-gray-100">
+    <div class="max-w-5xl px-5 py-24 mx-auto">
+      <div class="flex flex-wrap w-full mb-20 flex-col items-center text-center">
+        <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Pitchfork Kickstarter Taxidermy</h1>
+        <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table.</p>
+      </div>
       <div>
         <ol class="ml-5 relative border-l border-gray-200 dark:border-gray-700">
           <li class="mb-10 ml-6">

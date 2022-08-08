@@ -1,37 +1,34 @@
 <template>
   <div class="bg-gray-100">
-    <div class=" py-16 bg-blue-600">
-      <div class="max-w-5xl mx-auto">
-        <h1 class="text-4xl text-center">Hello world</h1>
+    <div class="max-w-5xl px-5 py-24 mx-auto">
+      <div class="flex flex-wrap w-full mb-20 flex-col items-center text-center">
+        <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900">Pitchfork Kickstarter Taxidermy</h1>
+        <p class="lg:w-1/2 w-full leading-relaxed text-gray-500">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table.</p>
       </div>
-    </div>
-    <div class="py-16">
-      <div class="max-w-5xl mx-auto">
-        <div class="flex gap-6 flex-wrap">
-          <div class="border rounded border-gray-700 w-96 flex-grow p-6 max-w-lg">
-            <img class="max-h-10 w-auto" src="https://zakirsoft.com/frontend/assets/images/logo/1.png" alt="">
-            <h2 class="text-2xl mt-4">Zakirsoft</h2>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus omnis ratione praesentium recusandae officiis beatae</p>
-          </div>
-          <div class="border rounded border-gray-700 w-96 flex-grow p-6 max-w-lg">
-            <img class="max-h-10 w-auto" src="https://zakirsoft.com/frontend/assets/images/logo/1.png" alt="">
-            <h2 class="text-2xl mt-4">Zakirsoft</h2>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus omnis ratione praesentium recusandae officiis beatae</p>
-          </div>
-          <div class="border rounded border-gray-700 w-96 flex-grow p-6 max-w-lg">
-            <img class="max-h-10 w-auto" src="https://zakirsoft.com/frontend/assets/images/logo/1.png" alt="">
-            <h2 class="text-2xl mt-4">Zakirsoft</h2>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus omnis ratione praesentium recusandae officiis beatae</p>
-          </div>
-          <div class="border rounded border-gray-700 w-96 flex-grow p-6 max-w-lg">
-            <img class="max-h-10 w-auto" src="https://zakirsoft.com/frontend/assets/images/logo/1.png" alt="">
-            <h2 class="text-2xl mt-4">Zakirsoft</h2>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus omnis ratione praesentium recusandae officiis beatae</p>
-          </div>
+      <div class="flex gap-6 flex-wrap">
+        <div class="border rounded border-gray-700 w-96 flex-grow p-6 max-w-lg">
+          <img class="max-h-10 w-auto" src="https://zakirsoft.com/frontend/assets/images/logo/1.png" alt="">
+          <h2 class="text-2xl mt-4">Zakirsoft</h2>
+          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus omnis ratione praesentium recusandae officiis beatae</p>
+        </div>
+        <div class="border rounded border-gray-700 w-96 flex-grow p-6 max-w-lg">
+          <img class="max-h-10 w-auto" src="https://zakirsoft.com/frontend/assets/images/logo/1.png" alt="">
+          <h2 class="text-2xl mt-4">Zakirsoft</h2>
+          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus omnis ratione praesentium recusandae officiis beatae</p>
+        </div>
+        <div class="border rounded border-gray-700 w-96 flex-grow p-6 max-w-lg">
+          <img class="max-h-10 w-auto" src="https://zakirsoft.com/frontend/assets/images/logo/1.png" alt="">
+          <h2 class="text-2xl mt-4">Zakirsoft</h2>
+          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus omnis ratione praesentium recusandae officiis beatae</p>
+        </div>
+        <div class="border rounded border-gray-700 w-96 flex-grow p-6 max-w-lg">
+          <img class="max-h-10 w-auto" src="https://zakirsoft.com/frontend/assets/images/logo/1.png" alt="">
+          <h2 class="text-2xl mt-4">Zakirsoft</h2>
+          <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus omnis ratione praesentium recusandae officiis beatae</p>
         </div>
       </div>
     </div>
-    <section class="text-gray-600 dark:text-gray-400 bg-white dark:bg-gray-900 body-font">
+    <section class="text-gray-600 dark:text-gray-400 bg-white dark:bg-gray-900 body-font border-b border-b-gray-700 dark:border-b-gray-700">
       <div class="max-w-5xl mx-auto flex px-5 py-24 md:flex-row flex-col items-center">
         <div
           class="lg:flex-grow md:w-1/2 lg:pr-24 md:pr-16 flex flex-col md:items-start md:text-left mb-16 md:mb-0 items-center text-center">
