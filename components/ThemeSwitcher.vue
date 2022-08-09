@@ -1,5 +1,5 @@
 <template>
-  <button v-if="$colorMode.value === 'system'" @click.prevent="setColorMode($colorMode.value)" type="button" class="text-gray-500 dark:text-gray-400 bg-gray-200 dark:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5">
+  <!-- <button v-if="$colorMode.value === 'system'" @click.prevent="setColorMode($colorMode.value)" type="button" class="text-gray-500 dark:text-gray-400 bg-gray-200 dark:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5">
     <svg viewBox="0 0 24 24" width="24" height="24" stroke="currentColor" stroke-width="2" fill="none" stroke-linecap="round" stroke-linejoin="round" class="css-i6dzq1"><rect x="2" y="3" width="20" height="14" rx="2" ry="2"></rect><line x1="8" y1="21" x2="16" y2="21"></line><line x1="12" y1="17" x2="12" y2="21"></line></svg>
   </button>
   <button v-else-if="$colorMode.value === 'dark'" @click.prevent="setColorMode($colorMode.value)" type="button" class="text-gray-500 dark:text-gray-400 bg-gray-200 dark:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5">
@@ -7,14 +7,12 @@
   </button>
   <button v-else @click.prevent="setColorMode($colorMode.value)" type="button" class="text-gray-500 dark:text-gray-400 bg-gray-200 dark:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5">
     <svg class="w-5 h-5" fill="currentColor" viewBox="0 0 20 20" xmlns="http://www.w3.org/2000/svg"><path d="M17.293 13.293A8 8 0 016.707 2.707a8.001 8.001 0 1010.586 10.586z"></path></svg>
-  </button>
-  <!-- <div>
-    <select v-model="$colorMode.preference">
-      <option value="system">System</option>
-      <option value="light">Light</option>
-      <option value="dark">Dark</option>
-    </select>
-  </div> -->
+  </button> -->
+  <select v-model="$colorMode.preference" class="outline-0 rounded border-gray-300 dark:border-gray-700 dark:text-gray-200 w-28 py-2 px-4 dark:bg-gray-700">
+    <option value="system">System</option>
+    <option value="light">Light</option>
+    <option value="dark">Dark</option>
+  </select>
 </template>
 
 <script>

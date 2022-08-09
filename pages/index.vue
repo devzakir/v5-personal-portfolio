@@ -1,12 +1,12 @@
 <template>
-  <section class="py-48 bg-white backdrop-filter backdrop-blur-md bg-opacity-90">
+  <section class="py-24 lg:py-48 bg-white backdrop-filter backdrop-blur-md bg-opacity-90">
     <div class="max-w-5xl mx-auto">
-      <div class="flex justify-between max-w-5xl mx-auto">
-        <div class="flex flex-col justify-center max-w-xs p-6 shadow-md rounded-xl sm:px-12 bg-gray-900 dark:text-gray-100 mr-10">
+      <div class="flex justify-between max-w-5xl mx-auto flex-wrap lg:flex-nowrap">
+        <div class="flex flex-col justify-center max-w-xs p-6 shadow-md rounded-xl sm:px-6 basis-72 flex-shrink-0 bg-gray-50 dark:bg-gray-900 dark:text-gray-100 mr-10">
           <img src="https://api.zakirhossen.com/storage/setting/1616300141.jpg" alt="" class="w-40 h-40 mx-auto rounded-full dark:bg-gray-500 aspect-square object-cover object-top">
           <div class="space-y-4 text-center divide-y divide-gray-700">
             <div class="my-2 space-y-1">
-              <h2 class="text-xl font-semibold sm:text-2xl">Leroy Jenkins</h2>
+              <h2 class="text-xl font-semibold sm:text-2xl">Zakir Hossen</h2>
               <p class="px-5 text-xs sm:text-base dark:text-gray-400">Full-stack developer</p>
             </div>
             <div class="flex justify-center pt-2 space-x-4 align-center">
