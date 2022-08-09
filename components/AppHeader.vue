@@ -4,7 +4,7 @@
       <div class="max-w-5xl mx-auto">
         <div class="flex flex-wrap justify-between items-center mx-auto max-w-screen-xl">
           <nuxt-link to="/" class="flex items-center">
-            <img class="max-w-[150px] max-h-[40px]" src="https://zakirhossen.com/_nuxt/img/logo-white.e9fbf76.png" alt="">
+            <img class="max-w-[150px] max-h-[40px]" src="/icon.png" alt="">
             <span class="ml-2 self-center text-xl font-semibold whitespace-nowrap dark:text-white">Zakir Hossen </span>
           </nuxt-link>
           <div class="flex items-center lg:order-2">

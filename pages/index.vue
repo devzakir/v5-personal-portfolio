@@ -33,9 +33,6 @@
             </div>
           </div>
         </div>
-        <!-- <div class="w-80 h-80 shrink-0 mr-20 rounded-full outline-dashed outline-8 outline-offset-8 outline-blue-600 border-2 border-gray-900 overflow-hidden">
-          <img class="w-full h-full object-cover object-top" src="https://api.zakirhossen.com/storage/setting/1616300141.jpg" alt="">
-        </div> -->
         <div>
           <h3 class="text-xl uppercase text-gray-700">
             👋 Hi, I am Zakir
@@ -75,8 +72,8 @@
             </p>
           </div>
           <div class="flex gap-4 mt-6">
-            <a class="px-6 py-3 border bg-gray-700 text-white rounded hover:bg-purple-600" href="https://www.youtube.com/zakirhossen" target="_blank">Subscribe to my Youtube Channel</a>
-            <a class="px-6 py-3 border bg-gray-700 text-white rounded hover:bg-purple-600" href="https://www.facebook.com/groups/growwithzakir/" target="_blank">Join my Facebook Group</a>
+            <a class="px-6 py-3 border text-white rounded bg-blue-500 hover:bg-blue-600" href="https://www.youtube.com/zakirhossen" target="_blank">Subscribe to my Youtube Channel</a>
+            <a class="px-6 py-3 border bg-gray-700 text-white rounded hover:bg-blue-600" href="https://www.facebook.com/groups/growwithzakir/" target="_blank">Join my Facebook Group</a>
           </div>
         </div>
       </div>

@@ -4,19 +4,16 @@ import { defineNuxtConfig } from 'nuxt'
 export default defineNuxtConfig({
   app: {
     head: {
+      title: 'Zakir Hossen - Personal Portfolio',
       meta: [
-        // <meta name="viewport" content="width=device-width, initial-scale=1">
         { name: 'viewport', content: 'width=device-width, initial-scale=1' }
       ],
       script: [
-        // <script src="https://myawesome-lib.js"></script>
         // { src: 'https://awesome-lib.js' }
       ],
       link: [
-        // <link rel="stylesheet" href="https://myawesome-lib.css">
-        // { rel: 'stylesheet', href: 'https://awesome-lib.css' }
+        { rel: 'icon', type: 'image/png', href: '/icon.png' }
       ],
-      // please note that this is an area that is likely to change
       style: [
         // <style type="text/css">:root { color: red }</style>
         // { children: ':root { color: red }', type: 'text/css' }
@@ -27,7 +24,7 @@ export default defineNuxtConfig({
       ]
     }
   },
-  modules: ['@nuxtjs/tailwindcss', '@nuxtjs/color-mode'],
+  modules: ['@nuxtjs/tailwindcss', '@nuxtjs/color-mode','@nuxt/content'],
   colorMode: {
     classSuffix: '',
   }
