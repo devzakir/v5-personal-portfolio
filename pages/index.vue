@@ -2,7 +2,7 @@
   <section class="py-48 bg-white backdrop-filter backdrop-blur-md bg-opacity-90">
     <div class="max-w-5xl mx-auto">
       <div class="flex justify-between max-w-5xl mx-auto">
-        <div class="flex flex-col justify-center max-w-xs p-6 shadow-md rounded-xl sm:px-12 dark:bg-gray-900 dark:text-gray-100 mr-10">
+        <div class="flex flex-col justify-center max-w-xs p-6 shadow-md rounded-xl sm:px-12 bg-gray-900 dark:text-gray-100 mr-10">
           <img src="https://api.zakirhossen.com/storage/setting/1616300141.jpg" alt="" class="w-40 h-40 mx-auto rounded-full dark:bg-gray-500 aspect-square object-cover object-top">
           <div class="space-y-4 text-center divide-y divide-gray-700">
             <div class="my-2 space-y-1">
@@ -55,7 +55,7 @@
               Before that, I used work in a Japanese company back in 2018. Then I started working as a
               freelancer working in different marketplaces like 
               <a class="text-blue-700" href="https://www.fiverr.com/zakir18">
-              Fiverr</a>
+              Fiverr </a>,
               <a class="text-blue-700" href="https://www.upwork.com/freelancers/~014e565b3a8183bd74">Upwork</a>
               ! Where I have worked with over 40+ clients.</p>
             <p class="mb-2">
