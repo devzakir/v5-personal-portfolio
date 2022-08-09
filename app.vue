@@ -1,5 +1,5 @@
 <template>
-  <div class="homepage">
+  <div>
     <app-header />
     <NuxtPage />
     <app-footer />

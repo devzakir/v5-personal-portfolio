@@ -8,10 +8,14 @@
     "release": "standard-version"
   },
   "devDependencies": {
+    "@nuxtjs/color-mode": "^3.1.4",
     "@nuxtjs/tailwindcss": "^5.3.1",
     "@tailwindcss/forms": "^0.5.2",
     "@tailwindcss/typography": "^0.5.4",
     "nuxt": "3.0.0-rc.6",
     "standard-version": "^9.5.0"
+  },
+  "dependencies": {
+    "flowbite": "^1.5.1"
   }
 }
