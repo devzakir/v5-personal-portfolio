@@ -1,4 +1,5 @@
-<div class="py-16 bg-white dark:bg-gray-900">
+<template>
+  <div class="py-16 bg-white dark:bg-gray-900">
     <div class="max-w-5xl mx-auto">
       <h1 class="text-4xl text-center mb-6 dark:text-white text-gray-700">Hello world</h1>
       <ol class="ml-5 relative border-l border-gray-200 dark:border-gray-700">
@@ -70,3 +71,14 @@
       </ol>
     </div>
   </div>
+</template>
+
+<script>
+export default {
+
+}
+</script>
+
+<style>
+
+</style>
