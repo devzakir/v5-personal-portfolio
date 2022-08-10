@@ -81,8 +81,10 @@
       </div>
     </section>
     <section class="text-gray-600 body-font dark:bg-gray-900">
-      <div class="max-w-5xl py-24 mx-auto">
-        <h1 class="text-3xl font-medium title-font text-gray-900 dark:text-white mb-12 text-center">Testimonials</h1>
+      <div class="max-w-5xl pb-24 pt-10 mx-auto">
+        <h1 class="text-3xl font-medium title-font text-gray-900 dark:text-white mb-12 text-center">
+          What people say about me
+        </h1>
         <div class="flex flex-wrap -m-4">
           <div class="p-4 md:w-1/2 w-full">
             <div class="h-full bg-gray-100 dark:bg-gray-800 p-8 rounded">

@@ -31,10 +31,9 @@
   </section>
 </template>
 
-
 <script setup>
   useHead({
-    title: 'A curated List for Designer and Developer - Zakir Hossen',
+    title: 'All the projects, I have started - Zakir Hossen',
     meta: [
       { name: 'description', content: 'My amazing site.' }
     ],

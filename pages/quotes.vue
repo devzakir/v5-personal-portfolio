@@ -85,12 +85,14 @@
   </section>
 </template>
 
-<script>
-export default {
 
-}
+<script setup>
+  useHead({
+    title: 'My favourite quotes - Zakir Hossen',
+    meta: [
+      { name: 'description', content: 'My amazing site.' }
+    ],
+  })
+
+  const { data } = await useAsyncData('projects', () => queryContent('/projects').findOne())
 </script>
-
-<style>
-
-</style>
