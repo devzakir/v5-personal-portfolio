@@ -7,23 +7,19 @@
         <span class="self-center text-2xl font-semibold whitespace-nowrap dark:text-white">Zakir Hossen</span>
       </a>
       <ul class="flex flex-wrap items-center mb-6 text-sm text-gray-500 sm:mb-0 dark:text-gray-400">
-        <li>
-          <a href="#" class="mr-4 hover:underline md:mr-6 ">Free Templates</a>
-        </li>
-        <li>
-          <a href="#" class="mr-4 hover:underline md:mr-6">Web Development Courses</a>
-        </li>
-        <li>
-          <a href="#" class="mr-4 hover:underline md:mr-6 ">Courses</a>
-        </li>
-        <li>
-          <a href="#" class="hover:underline">Contact</a>
+        <li v-for="(item, index) in menuItems" :key="index">
+          <a :href="item.url" v-if="item.target" target="_blank" class="mr-4 hover:underline md:mr-6 ">
+            {{ item.name }}
+          </a>
+          <nuxt-link :to="item.url" v-else class="mr-4 hover:underline md:mr-6 ">
+            {{ item.name }}
+          </nuxt-link>
         </li>
       </ul>
     </div>
     <hr class="my-6 border-gray-200 sm:mx-auto dark:border-gray-700 lg:my-8">
     <span class="block text-sm text-gray-500 sm:text-center dark:text-gray-400">
-      © 2022 <a href="https://zakirhossen.com" class="hover:underline">Zakir Hossen</a>. All Rights Reserved.
+      © {{ new Date().getFullYear() }} <a href="https://zakirhossen.com" class="hover:underline">Zakir Hossen</a>. All Rights Reserved.
     </span>
     </div>
   </footer>
@@ -31,7 +27,39 @@
 
 <script>
   export default {
-
+    data(){
+      return {
+        menuItems: [
+          {
+            id: 1,
+            name: 'Resources',
+            url: '/resources',
+          },
+          {
+            id: 2,
+            name: 'Fav Quotes',
+            url: '/quotes',
+          },
+          {
+            id: 5,
+            name: 'Work with me',
+            url: '/work',
+          },
+          {
+            id: 3,
+            name: 'Learn Web Development',
+            url: 'https://www.youtube.com/c/Codeshikhi?ref=zakirhossen.com',
+            target: '_blank'
+          },
+          {
+            id: 4,
+            name: 'Get Free Templates',
+            url: 'https://echotemplate.com?ref=zakirhossen.com',
+            target: '_blank'
+          },
+        ]
+      }
+    }
   }
 </script>
 

@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Zakirsoft",
+    "url": "https://zakirsoft.com",
+    "type": "Software Company",
+    "size": "10+ Employee",
+    "description": "lorem20",
+    "active": true
+  },
+  {
+    "name": "Templatecookie",
+    "url": "https://templatecookie.com",
+    "type": "Software Company",
+    "size": "10+ Employee",
+    "description": "lorem20",
+    "active": true
+  },
+  {
+    "name": "Joybazar",
+    "url": "https://www.facebook.com/joybazarbd/",
+    "type": "eCommerce Company",
+    "size": "10+ Employee",
+    "description": "lorem20",
+    "active": true
+  },
+  {
+    "name": "Youtube",
+    "url": "https://www.facebook.com/joybazarbd/",
+    "type": "eCommerce Company",
+    "size": "10+ Employee",
+    "description": "lorem20",
+    "active": true
+  }
+]
