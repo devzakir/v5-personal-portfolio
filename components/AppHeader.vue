@@ -36,7 +36,7 @@
           <div :class="{ 'hidden' : !showMenu}" class="justify-between items-center w-full lg:flex lg:w-auto lg:order-1" id="mobile-menu-2">
             <ul class="flex flex-col mt-4 font-medium lg:flex-row lg:space-x-8 lg:mt-0">
               <li v-for="(item, index) in menuItems" :key="index">
-                <nuxt-link :to="item.url" class="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-blue-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700">
+                <nuxt-link :to="item.url" exactActiveClass="!text-blue-600 dark:!text-blue-500" class="block py-2 pr-4 pl-3 text-gray-700 border-b border-gray-100 hover:bg-gray-50 lg:hover:bg-transparent lg:border-0 lg:hover:text-blue-700 lg:p-0 dark:text-gray-400 lg:dark:hover:text-white dark:hover:bg-gray-700 dark:hover:text-white lg:dark:hover:bg-transparent dark:border-gray-700">
                   {{ item.name }}
                 </nuxt-link>
               </li>
@@ -68,13 +68,13 @@ export default {
         },
         {
           id: 3,
-          name: 'Projects',
+          name: 'My Projects',
           url: '/projects',
           target: '_self'
         },
         {
           id: 4,
-          name: 'Timeline',
+          name: 'My Life Journey',
           url: '/timeline',
           target: '_self'
         },
