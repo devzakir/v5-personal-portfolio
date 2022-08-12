@@ -1,6 +1,6 @@
 <template>
   <div>
-    <section class="py-24 lg:py-48 bg-white backdrop-filter backdrop-blur-md bg-opacity-90">
+    <section class="py-24 lg:py-48 bg-white dark:bg-gray-800 backdrop-filter backdrop-blur-md bg-opacity-90">
       <div class="max-w-5xl mx-auto">
         <div class="flex justify-between max-w-5xl mx-auto flex-wrap lg:flex-nowrap">
           <div class="flex flex-col justify-center max-w-xs p-6 shadow-md rounded-xl sm:px-6 basis-72 flex-shrink-0 bg-gray-50 dark:bg-gray-900 dark:text-gray-100 mr-10">
@@ -35,46 +35,46 @@
             </div>
           </div>
           <div>
-            <h3 class="text-xl uppercase text-gray-700">
+            <h3 class="text-xl uppercase text-gray-700 dark:text-gray-300">
               👋 Hi, I am Zakir
             </h3>
-            <div class="content" >
+            <div class="content dark:text-white" >
               <h3 class="text-4xl mb-4"> I am a 22-years-old entrepreneur!</h3>
               <p class="mb-2">I’m currently dedicating most of my time with my team on 
-                <a class="text-blue-700"  href="https://zakirsoft.com">Zakirsoft</a>
+                <a class="text-blue-700 dark:text-blue-400"  href="https://zakirsoft.com">Zakirsoft</a>
                 building awesome digital products. We are a team of people working hard to build innovative digital products.
               </p>
               <p class="mb-2">
-                I am also working on creating <a class="text-blue-700" href="courses"> online courses </a>,
+                I am also working on creating <a class="text-blue-700 dark:text-blue-400" href="courses"> online courses </a>,
                 I am developing an effective method for learning programming languages. I am creating courses on
                 Laravel, Vue.js, Nuxt.js, and Bootstrap.
               </p>
               <p class="mb-2">
                 Before that, I used work in a Japanese company back in 2018. Then I started working as a
                 freelancer working in different marketplaces like 
-                <a class="text-blue-700" href="https://www.fiverr.com/zakir18">
+                <a class="text-blue-700 dark:text-blue-400" href="https://www.fiverr.com/zakir18">
                 Fiverr </a>,
-                <a class="text-blue-700" href="https://www.upwork.com/freelancers/~014e565b3a8183bd74">Upwork</a>
+                <a class="text-blue-700 dark:text-blue-400" href="https://www.upwork.com/freelancers/~014e565b3a8183bd74">Upwork</a>
                 ! Where I have worked with over 40+ clients.</p>
               <p class="mb-2">
                 I've also started and worked on many other projects that unfortunately never saw the light
-                of day, like <a class="text-blue-700" href="https://www.facebook.com/joybazarbd/"> Joybazar </a>, Best
+                of day, like <a class="text-blue-700 dark:text-blue-400" href="https://www.facebook.com/joybazarbd/"> Joybazar </a>, Best
                 Hammock Chair, or Podcast.</p>
               <p>
                 If you've reached this point, you probably want tolearn more about my projects. You can also follow me on 
-                <a class="text-blue-700" href="https://facebook.com/devzakir">
+                <a class="text-blue-700 dark:text-blue-400" href="https://facebook.com/devzakir">
                   Facebook
                 </a>
                 , where I actively share what I'm working on, or 
-                <a class="text-blue-700" href="https://www.youtube.com/channel/UCtmtIr6waLhrgNmFYHjznvw">
+                <a class="text-blue-700 dark:text-blue-400" href="https://www.youtube.com/channel/UCtmtIr6waLhrgNmFYHjznvw">
                   subscribe to my Youtube 
                 </a> 
-                to get regular updates on my projects. <a href="/about" class="text-blue-700 underline">Learn More</a>
+                to get regular updates on my projects. <a href="/about" class="text-blue-700 dark:text-blue-400 underline">Learn More</a>
               </p>
             </div>
             <div class="flex gap-4 mt-6">
-              <a class="px-6 py-3 border text-white rounded bg-blue-500 hover:bg-blue-600" href="https://www.youtube.com/zakirhossen" target="_blank">Subscribe to my Youtube Channel</a>
-              <a class="px-6 py-3 border bg-gray-700 text-white rounded hover:bg-blue-600" href="https://www.facebook.com/groups/growwithzakir/" target="_blank">Join my Facebook Group</a>
+              <a class="px-6 py-3 border dark:border-gray-800 text-white rounded bg-blue-500 hover:bg-blue-600" href="https://www.youtube.com/zakirhossen" target="_blank">Subscribe to my Youtube Channel</a>
+              <a class="px-6 py-3 border dark:border-gray-800 bg-gray-700 text-white rounded hover:bg-blue-600" href="https://www.facebook.com/groups/growwithzakir/" target="_blank">Join my Facebook Group</a>
             </div>
           </div>
         </div>
