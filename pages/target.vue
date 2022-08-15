@@ -89,12 +89,54 @@
 
 
 <script setup>
+  import { ref } from 'vue';
+
   useHead({
     title: 'My Next 6 Months Target - Zakir Hossen',
     meta: [
       { name: 'description', content: 'My amazing site.' }
     ],
   })
+
+  const items = ref([
+    {
+      month: "August",
+      title: "My Youtube Channels",
+      status: "In Progress",
+      description: "I am working on my youtube channels and I am going to be publishing new videos every week.",
+    },
+    {
+      month: "September",
+      title: "Working on My Youtube Channels",
+      status: "Upcoming",
+      description: "I am working on my youtube channels and I am going to be publishing new videos every week.",
+    },
+    {
+      month: "October",
+      title: "Writing Books",
+      status: "Upcoming",
+      description: "I am working on my youtube channels and I am going to be publishing new videos every week.",
+    },
+    {
+      month: "October",
+      title: "Creating Digital Courses",
+      status: "Upcoming",
+      description: "I am working on my youtube channels and I am going to be publishing new videos every week.",
+    },
+    {
+      month: "November",
+      title: "Creating Udemy Courses",
+      status: "Upcoming",
+      description: "I am working on my youtube channels and I am going to be publishing new videos every week.",
+    },
+    {
+      month: "November",
+      title: "Invest in someone else's portfolio",
+      status: "Upcoming",
+      description: "I am working on my youtube channels and I am going to be publishing new videos every week.",
+    },
+  ])
+
 </script>
 
 <style>

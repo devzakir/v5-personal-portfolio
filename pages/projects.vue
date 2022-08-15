@@ -5,7 +5,9 @@
         <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900 dark:text-white"> 
           All Projects
         </h1>
-        <p class="lg:w-1/2 w-full leading-relaxed text-gray-500 dark:text-gray-400">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table.</p>
+        <p class="lg:w-1/2 w-full leading-relaxed text-gray-500 dark:text-gray-400">
+          Learn about my previous and current projects I have worked on.
+        </p>
       </div>
     </div>
   </div>
@@ -23,7 +25,8 @@
         </div>
       </div>
       <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6" :class="index % 2 === 1 ? 'order-1' : ''">
-        <img class="object-cover object-center rounded" alt="hero" src="https://dummyimage.com/720x600">
+        <img class="object-cover object-center rounded shadow" alt="hero" v-if="item.image" :src="item.image">
+        <img class="object-cover object-center rounded shadow" alt="hero" v-else src="https://dummyimage.com/720x600">
       </div>
     </div>
   </section>

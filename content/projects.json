@@ -1,33 +1,51 @@
 [
   {
-    "name": "Zakirsoft",
-    "url": "https://zakirsoft.com",
-    "type": "Software Company",
-    "size": "10+ Employee",
-    "description": "Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray",
-    "active": true
-  },
-  {
     "name": "Templatecookie",
     "url": "https://templatecookie.com",
     "type": "Software Company",
-    "size": "10+ Employee",
-    "description": "Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray",
+    "lunch_year": "December, 2020",
+    "size": 6,
+    "image": "/projects/templatecookie.png",
+    "description": "We create quality digital products for your next big idea. We sell HTML templates, PHP scripts which can save your time and money. Templatecookie is a team of developers working on building quality templates and scripts!",
+    "active": true
+  },
+  {
+    "name": "Echotemplate",
+    "url": "https://echotemplate.com",
+    "type": "Template Marketplace",
+    "lunch_year": "November 2020",
+    "size": 2,
+    "image": "/projects/echotemplate.png",
+    "description": "Echotemplate.com is a marketplace for free UI & HTML templates. It is mainly built for develoeprs who are working on side projects. Curated quality templates for designer & develoeprs",
+    "active": true
+  },
+  {
+    "name": "Zakirsoft",
+    "url": "https://zakirsoft.com",
+    "type": "Software Company",
+    "lunch_year": "October, 2020",
+    "size": 10,
+    "image": "/projects/zakirsoft.png",
+    "description": "💻 A Software development company providing quality services. As company we develop innovatives website & software solutions. We are proud of what we do.",
     "active": true
   },
   {
     "name": "Joybazar",
     "url": "https://www.facebook.com/joybazarbd/",
     "type": "eCommerce Company",
-    "size": "10+ Employee",
-    "description": "Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray",
+    "size": 1,
+    "image": "/projects/joybazar.png",
+    "lunch_year": "June, 2019",
+    "description": "Joybazar is a ecommerce store selling accessories online to improve your daily life.",
     "active": true
   },
   {
     "name": "Youtube",
-    "url": "https://www.facebook.com/joybazarbd/",
-    "type": "eCommerce Company",
-    "size": "10+ Employee",
+    "url": "https://www.youtube.com/zakirhossen",
+    "type": "Youtube Channel",
+    "lunch_year": "2017",
+    "size": 1,
+    "image": "/projects/youtube.png",
     "description": "Copper mug try-hard pitchfork pour-over freegan heirloom neutra air plant cold-pressed tacos poke beard tote bag. Heirloom echo park mlkshk tote bag selvage hot chicken authentic tumeric truffaut hexagon try-hard chambray",
     "active": true
   }
