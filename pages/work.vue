@@ -90,8 +90,7 @@
     <section class="text-gray-600 dark:text-gray-400 bg-white dark:bg-gray-900 body-font border-b border-b-gray-200 dark:border-b-gray-700">
       <div class="max-w-5xl py-24 mx-auto">
         <h1 class="sm:text-3xl text-2xl font-medium title-font text-center text-gray-900 mb-20">
-          Who gets the priority
-          <br class="hidden sm:block">Selfies Wayfarers
+          Who I like most
         </h1>
         <div class="flex flex-wrap sm:-m-4 -mx-4 -mb-10 -mt-4 md:space-y-0 space-y-6">
           <div class="p-4 md:w-1/2 flex">
