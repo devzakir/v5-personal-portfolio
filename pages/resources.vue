@@ -5,7 +5,9 @@
         <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900 dark:text-white"> 
           Web Development Resources
         </h1>
-        <p class="lg:w-1/2 w-full leading-relaxed text-gray-500 dark:text-gray-400">Whatever cardigan tote bag tumblr hexagon brooklyn asymmetrical gentrify, subway tile poke farm-to-table.</p>
+        <p class="lg:w-1/2 w-full leading-relaxed text-gray-500 dark:text-gray-400">
+          Resources I use for my web development projects, and for others to use.
+        </p>
       </div>
     </div>
     <div class="max-w-5xl pb-16 mx-auto" v-for="(section, index) in data.body" :key="index">
