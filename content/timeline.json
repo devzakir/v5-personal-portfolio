@@ -3,60 +3,67 @@
     "year": "2015",
     "title": "Graduate from High School",
     "date": "February 2015",
-    "description": "I graduated from the University of Wisconsin-Madison with a B.S. in Computer Science and a minor in Mathematics."
+    "description": "I graduated from the Charia High School with a SSC in Humanities and a computer in optional."
   },
   {
     "year": "2015",
-    "title": "Admission to University",
+    "title": "Admission to Versity",
     "date": "July 2015",
-    "description": "I graduated from the University of Wisconsin-Madison with a B.S. in Computer Science and a minor in Mathematics."
+    "description": "I was accepted to the National Polytechnic Institute (NPI) in the Computer Technology."
   },
   {
     "year": "2017",
     "title": "Left Collage",
-    "date": "February 2015",
-    "description": "I graduated from the University of Wisconsin-Madison with a B.S. in Computer Science and a minor in Mathematics."
+    "date": "February 2017",
+    "description": "I was learning a lot and started freelancing as web designer, soon after I decided to focus on web design skills and did not attend 4th semester final example. "
   },
   {
     "year": "2017",
     "title": "Getting First Job as Web Designer",
-    "date": "May 2015",
-    "description": "I started a software development job at a local company."
+    "date": "September 2017",
+    "description": "I started working as a web designer at a multinational company. It was my first job and I was so excited to join there. At that time I was 18.5 years old."
   },
   {
     "year": "2018",
     "title": "Left Jobs and started Affiliate Marketing",
     "date": "May 2015",
-    "description": "I started a software development job at a local company."
+    "description": "Starting of 2018, I was learning PHP to become a full-stack web developer. Eventually I started a amazon affiliate marketing as a side project and I wasn't doing good enough. On July 2018 I decided to leave the company and focus on my side project."
   },
   {
     "year": "2019",
     "title": "Started Freelancing as Full-stack Developer",
     "date": "May 2015",
-    "description": "I started a software development job at a local company."
+    "description": "My side project didn't do well, after 2 months of doing or so I got demotivated and decided to focus on learning Laravel, PHP & Mysql. After 5 months of learning I started freelancing as a full-stack web developer in Feburary, 2019."
   },
   {
     "year": "2020",
     "title": "Hired First Employee",
     "date": "May 2015",
-    "description": "I started a software development job at a local company."
+    "description": "I was doing a fulltime job and a partime job. Besides this I got project offer worth of $4000 usd and I couldn't resist that offer. It was my biggest project so far and I pretty confident I can finish. I was so busy and I hired someone to work with me."
   },
   {
     "year": "2020",
     "title": "Created My First Software Company",
     "date": "May 2015",
-    "description": "I started a software development job at a local company."
+    "description": "My first hiring didn't go well and I decided to start a company after discussing with my friend Khayrul Shanto. At that time, Khyrul was learning PHP & Laravel from me and he helped me a lot with brainstroming how we can get started and we did after 2 months of working together."
+  },
+  {
+    "year": "2021",
+    "title": "Dropout from Collage",
+    "date": "January 2021",
+    "description": "My family, friends push me a lot to complete Diploma (at least). After failing in 4th semester for 2 times, I wasn't ready to pay 25 thousand BDT for 3rd time attempt, specially when my business was not doing well. I decided to drop out from collage and start a new life."
   },
   {
     "year": "2021",
     "title": "Getting Married",
     "date": "July 2021",
-    "description": "I started a software development job at a local company."
+    "description": "I was so frustrated running a company, working with clients, working on my side projects echotemplate, codeshikhi & templatecookie. I couldn't help myself as I was engaged computer related acitivies 24/7. I decided to get married and I am so happy to be married."
   },
   {
     "year": "2022",
-    "title": "Getting Married",
-    "date": "July 2021",
-    "description": "I started a software development job at a local company."
+    "title": "Closeing Zakirsoft",
+    "date": "August 2022",
+    "latest": true,
+    "description": "I am closing my first company Zakirsoft after almost 2 years of working on it. I had started with my friends and family. It has a emotional attachment with me. I did so many mistakes, I have many projects on my hand, My life, routine is not organized at all. It is time to get everything in order, I want to focus few specific personal/professional projects."
   }
 ]
