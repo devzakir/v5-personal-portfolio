@@ -32,7 +32,7 @@
             </h3>
             <div class="content dark:text-white" >
               <h3 class="text-4xl mb-4"> I am a 22-years-old entrepreneur!</h3>
-              <p class="mb-2">I’m currently dedicating most of my time with my team on 
+              <p class="mb-2">I’m currently dedicating most of my time with my team on
                 <a class="text-blue-700 dark:text-blue-400"  href="https://zakirsoft.com">Zakirsoft</a>
                 building awesome digital products. We are a team of people working hard to build innovative digital products.
               </p>
@@ -43,7 +43,7 @@
               </p>
               <p class="mb-2">
                 Before that, I used work in a Japanese company back in 2018. Then I started working as a
-                freelancer working in different marketplaces like 
+                freelancer working in different marketplaces like
                 <a class="text-blue-700 dark:text-blue-400" href="https://www.fiverr.com/zakir18">
                 Fiverr </a>,
                 <a class="text-blue-700 dark:text-blue-400" href="https://www.upwork.com/freelancers/~014e565b3a8183bd74">Upwork</a>
@@ -57,10 +57,10 @@
                 <a class="text-blue-700 dark:text-blue-400" href="https://facebook.com/devzakir">
                   Facebook
                 </a>
-                , where I actively share what I'm working on, or 
+                , where I actively share what I'm working on, or
                 <a class="text-blue-700 dark:text-blue-400" href="https://www.youtube.com/channel/UCtmtIr6waLhrgNmFYHjznvw">
-                  subscribe to my Youtube 
-                </a> 
+                  subscribe to my Youtube
+                </a>
                 to get regular updates on my projects. <a href="/about" class="text-blue-700 dark:text-blue-400 underline">Learn More</a>
               </p>
             </div>
