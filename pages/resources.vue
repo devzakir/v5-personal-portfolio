@@ -1,6 +1,6 @@
 <template>
   <section class="text-gray-600 dark:text-gray-400 body-font bg-white dark:bg-gray-900 py-24">
-    <div class="max-w-5xl mx-auto">
+    <div class="max-w-5xl mx-auto px-6 lg:px-0">
       <div class="flex flex-wrap w-full mb-20 flex-col items-center text-center">
         <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900 dark:text-white"> 
           Web Development Resources

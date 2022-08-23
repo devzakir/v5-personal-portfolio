@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="py-16 bg-gray-100 dark:bg-gray-900 dark:border-b-gray-800 border-b">
-        <div class="max-w-5xl mx-auto">
+        <div class="max-w-5xl mx-auto px-6 lg:px-0">
         <div class="flex flex-wrap w-full flex-col items-center text-center">
             <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900 dark:text-white"> 
             My Career Timeline
@@ -11,7 +11,7 @@
         </div>
     </div>
     <div class="py-16 bg-white dark:bg-gray-900">
-        <div class="max-w-5xl mx-auto">
+        <div class="max-w-5xl mx-auto px-6 lg:px-0">
         <ol class="ml-5 relative border-l border-gray-200 dark:border-gray-700">
             <li class="mb-10 ml-6" v-for="(item, index) in data.body" :key="index">
             <span class="flex absolute -left-3 justify-center items-center w-6 h-6 bg-blue-200 rounded-full ring-8 ring-gray-100 dark:ring-gray-800 dark:bg-blue-900">

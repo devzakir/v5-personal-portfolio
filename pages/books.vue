@@ -1,7 +1,7 @@
 <template>
   <div>
     <div class="py-16 bg-gray-100 dark:bg-gray-900 dark:border-b-gray-800 border-b">
-      <div class="max-w-5xl mx-auto">
+      <div class="max-w-5xl mx-auto px-6 lg:px-0">
         <div class="flex flex-wrap w-full flex-col items-center text-center">
           <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900 dark:text-white"> 
             Books Recommendation
@@ -13,7 +13,7 @@
       </div>
     </div>
     <div class="py-80 bg-white dark:bg-gray-900 dark:border-b-gray-800 border-b">
-      <div class="max-w-5xl mx-auto">
+      <div class="max-w-5xl mx-auto px-6 lg:px-0">
         <p class="text-center">Coming Soon</p>
       </div>
     </div>
