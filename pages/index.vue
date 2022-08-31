@@ -5,7 +5,7 @@
         <div class="flex justify-between max-w-5xl mx-auto flex-wrap lg:flex-nowrap gap-6">
 
         <div class="flex flex-col justify-center max-w-xs p-6 shadow-md rounded-xl sm:px-6 basis-72 flex-shrink-0 bg-gray-900 dark:bg-gray-100 dark:text-gray-800 text-gray-100 mr-10">
-            <img src="https://api.zakirhossen.com/storage/setting/1616300141.jpg" alt="" class="w-40 h-40 mx-auto rounded-full bg-gray-500 aspect-square object-cover object-top">
+            <img src="/zakir.jpg" alt="" class="w-40 h-40 mx-auto rounded-full bg-gray-500 aspect-square object-cover object-top">
             <div class="space-y-4 text-center divide-y divide-gray-300 dark:divide-gray-700">
               <div class="my-2 space-y-1">
                 <h2 class="text-xl font-semibold sm:text-2xl">Zakir Hossen</h2>
