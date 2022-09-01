@@ -77,7 +77,7 @@
                 of day, like <a class="text-blue-700 dark:text-blue-400" href="https://www.facebook.com/joybazarbd/"> Joybazar </a>, Best
                 Hammock Chair, or Podcast.</p>
               <p>
-                If you've reached this point, you probably want tolearn more about my projects. You can also follow me on 
+                If you've reached this point, you probably want to learn more about my projects. You can also follow me on 
                 <a class="text-blue-700 dark:text-blue-400" href="https://facebook.com/devzakir">
                   Facebook
                 </a>
