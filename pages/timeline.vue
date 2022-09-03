@@ -41,9 +41,9 @@
 
 <script setup>
   useHead({
-    title: 'Life & Career Timeline',
+    title: 'Life & Career Timeline - Zakir Hossen',
     meta: [
-      { name: 'description', content: 'My amazing site.' }
+      { name: 'description', content: 'Learn more about Zakir Hossen"s life journey and how he became what he is today. All the projects he worked on, steps he took, and challanges he overcame.' }
     ],
   })
 
