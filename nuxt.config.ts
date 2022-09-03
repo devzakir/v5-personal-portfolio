@@ -4,24 +4,25 @@ import { defineNuxtConfig } from 'nuxt'
 export default defineNuxtConfig({
   app: {
     head: {
-      title: 'Zakir Hossen - Personal Portfolio',
+      title: 'Personal Portfolio - Zakir Hossen | Entrepreneur | Trainer | Full-stack Web Developer',
       meta: [
-        { name: 'viewport', content: 'width=device-width, initial-scale=1' }
-      ],
-      script: [
-        // { src: 'https://awesome-lib.js' }
+        { name: 'viewport', content: 'width=device-width, initial-scale=1' },
+        { name: 'description', content: 'Zakir Hossen is a full-stack web developer, entrepreneur, trainer on codeshikhi, founder of Templatecookie.com & Zakirsoft.com' }
       ],
       link: [
         { rel: 'icon', type: 'image/png', href: '/icon.png' }
       ],
-      style: [
-        // <style type="text/css">:root { color: red }</style>
-        // { children: ':root { color: red }', type: 'text/css' }
-      ],
-      noscript: [
-        // <noscript>Javascript is required</noscript>
-        { children: 'Javascript is required' }
-      ]
+      // script: [
+      //   // { src: 'https://awesome-lib.js' }
+      // ],
+      // style: [
+      //   // <style type="text/css">:root { color: red }</style>
+      //   // { children: ':root { color: red }', type: 'text/css' }
+      // ],
+      // noscript: [
+      //   // <noscript>Javascript is required</noscript>
+      //   { children: 'Javascript is required' }
+      // ]
     }
   },
   modules: ['@nuxtjs/tailwindcss', '@nuxtjs/color-mode','@nuxt/content'],

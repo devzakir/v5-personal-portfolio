@@ -6,14 +6,16 @@
   </div>
 </template>
 
-<script>
-import AppFooter from '~~/components/AppFooter.vue'
-import AppHeader from '~~/components/AppHeader.vue'
-export default {
-  components: { AppHeader, AppFooter },
-}
-</script>
+<script setup>
+  import AppFooter from '~~/components/AppFooter.vue'
+  import AppHeader from '~~/components/AppHeader.vue'
 
+  const nuxtApp = useNuxtApp()
+
+  nuxtApp.hook("page:finish", () => {
+     window.scrollTo(0, 0)
+  })
+</script>
 <style>
 
 </style>
