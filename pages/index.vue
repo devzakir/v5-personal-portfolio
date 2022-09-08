@@ -88,7 +88,7 @@
               </p>
               <div class="flex justify-between items-center">
                 <a class="inline-flex items-center">
-                  <img alt="testimonial" src="/testimonial/ariful-islam.png" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
+                  <img alt="Ariful Islam - Full-stack Developer" src="/testimonial/ariful-islam.png" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
                   <span class="flex-grow flex flex-col pl-4">
                   <span class="title-font font-medium text-gray-900 dark:text-white">
                     Ariful Islam
@@ -110,7 +110,7 @@
               </p>
               <div class="flex justify-between items-center">
                 <a class="inline-flex items-center">
-                  <img alt="testimonial" src="/testimonial/rakibul-islam.jpeg" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
+                  <img alt="Rakibul Islam - Full-stak Web Developer" src="/testimonial/rakibul-islam.jpeg" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
                   <span class="flex-grow flex flex-col pl-4">
                   <span class="title-font font-medium text-gray-900 dark:text-white">Rakibul Islam</span>
                   <span class="text-gray-500 text-sm">Full-stack Developer</span>
