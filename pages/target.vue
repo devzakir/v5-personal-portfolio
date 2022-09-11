@@ -4,7 +4,7 @@
       <div class="max-w-5xl mx-auto px-6 lg:px-0">
         <div class="flex flex-wrap w-full flex-col items-center text-center">
           <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900 dark:text-white"> 
-            Next 6 Months Target
+            Next 5 Months Target (August to December)
           </h1>
           <p class="lg:w-1/2 w-full leading-relaxed text-gray-500 dark:text-gray-400">
             Learn about my next move, goals & target. See what I am working on and what I am looking to achieve.
@@ -52,7 +52,7 @@
     {
       timelength: "September",
       title: "Building Youtue Studio",
-      status: "In Progress",
+      status: "Complete",
       description: "I am working on my youtube channels and I am going to be publishing new videos every week.",
     },
     {
