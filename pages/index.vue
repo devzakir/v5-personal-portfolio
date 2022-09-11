@@ -88,7 +88,7 @@
               </p>
               <div class="flex justify-between items-center">
                 <a class="inline-flex items-center">
-                  <img alt="Ariful Islam - Full-stack Developer" src="/testimonial/ariful-islam.png" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
+                  <img alt="Ariful Islam - Full-stack Developer" src="/testimonial/ariful-islam.jpg" class="w-12 h-12 rounded-full flex-shrink-0 object-cover object-center">
                   <span class="flex-grow flex flex-col pl-4">
                   <span class="title-font font-medium text-gray-900 dark:text-white">
                     Ariful Islam
