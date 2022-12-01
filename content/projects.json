@@ -1,5 +1,15 @@
 [
   {
+    "name": "Lomeyo.com",
+    "url": "https://lomeyo.com",
+    "type": "Software Company",
+    "lunch_year": "October, 2022",
+    "size": 6,
+    "image": "/projects/lomeyo.png",
+    "description": "Innovative solutions for simpler and more efficient life. Our mission is to make technology way better and empower your business by providing top notch products and services.",
+    "active": true
+  },
+  {
     "name": "Templatecookie",
     "url": "https://templatecookie.com",
     "type": "Software Company",
