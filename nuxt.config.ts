@@ -4,10 +4,11 @@ import { defineNuxtConfig } from 'nuxt'
 export default defineNuxtConfig({
   app: {
     head: {
-      title: 'Personal Portfolio - Zakir Hossen | Entrepreneur | Trainer | Full-stack Web Developer',
+      title: 'Personal Portfolio of Zakir Hossen | Entrepreneur | Trainer | Full-stack Developer',
       meta: [
         { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-        { name: 'description', content: 'Zakir Hossen is a full-stack web developer, entrepreneur, trainer at codeshikhi, founder of Templatecookie.com & Echotemplate.com & Codeshikhi.io' }
+        { name: 'description', content: 'Zakir Hossen is a full-stack web developer, entrepreneur, trainer at codeshikhi, founder of Templatecookie.com & Echotemplate.com & Codeshikhi.io' },
+        { name: 'og:image', content: '/zakirhossen.jpg' }
       ],
       link: [
         { rel: 'icon', type: 'image/png', href: '/icon.png' }

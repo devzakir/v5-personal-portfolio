@@ -5,7 +5,7 @@
         <div class="flex justify-between max-w-5xl mx-auto flex-wrap lg:flex-nowrap gap-6">
 
         <div class="flex flex-col justify-center max-w-xs p-6 shadow-md rounded-xl sm:px-6 basis-72 flex-shrink-0 bg-gray-900 dark:bg-blue-800 dark:text-gray-800 text-gray-100 mr-10">
-            <img src="/zakir.jpg" alt="" class="w-40 h-40 mx-auto rounded-full bg-gray-500 aspect-square object-cover object-top">
+            <img src="/zakir.png" alt="" class="w-40 h-40 mx-auto rounded-full bg-gray-500 aspect-square object-cover object-top">
             <div class="space-y-4 text-center divide-y divide-gray-300 dark:divide-gray-200">
               <div class="my-2 space-y-1">
                 <h2 class="text-xl font-semibold sm:text-2xl dark:text-white">Zakir Hossen</h2>
@@ -170,7 +170,7 @@
   useHead({
     title: 'Personal Portfolio - Zakir Hossen | Entrepreneur | Trainer | Full-stack Web Developer',
     meta: [
-      { name: 'description', content: 'Zakir Hossen is a full-stack web developer, entrepreneur, trainer on codeshikhi, founder of Templatecookie.com & Zakirsoft.com' }
+      { name: 'description', content: 'Zakir Hossen is a full-stack web developer, entrepreneur, trainer at codeshikhi, founder of Lomeyo.com, Templatecookie.com, echotemplate.com & codeshikhi.io' }
     ],
   })
 </script>
