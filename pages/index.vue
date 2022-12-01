@@ -33,35 +33,34 @@
             </h3>
             <div class="content dark:text-white" >
               <h3 class="text-4xl mb-4"> I am a 23-years-old entrepreneur!</h3>
-              <p class="mb-2">I’m currently dedicating most of my time with my team on
-                <a class="text-blue-700 dark:text-blue-400" target="_blank" href="https://templatecookie.com">Templatecookie</a> building awesome digital products. Previously I was working on
-                <a class="text-blue-700 dark:text-blue-400" target="_blank" href="https://zakirsoft.com">Zakirsoft</a>. We are a team of people working hard to build innovative digital products.
+              <p class="mb-2">Currently dedicating most of my time building
+                <a class="text-blue-700 dark:text-blue-400" target="_blank" href="https://templatecookie.com" title="A brand focused on creating finest digital products to improve small business owners daily life.">Templatecookie.com, </a>
+                <a class="text-blue-700 dark:text-blue-400" target="_blank" href="https://echotemplate.com" title="A HTML, Figma template marketplace with 100+ quality free products.">Echotemplate.com</a> & 
+                <a class="text-blue-700 dark:text-blue-400" target="_blank" href="https://youtube.com/@codeshikhi" title="An eLearning focused company with a vision of creating skilled manpower.">@Codeshikhi.</a>
+                These brands serves under the <a class="text-blue-700 dark:text-blue-400" target="_blank" href="https://lomeyo.com">Lomeyo.com</a>.
+                See all my 
+                <nuxt-link class="text-blue-700 dark:text-blue-400" to="/projects">projects</nuxt-link> here.
+
+                
               </p>
               <p class="mb-2">
-                I am also working on creating <a class="text-blue-700 dark:text-blue-400" target="_blank" href="https://youtube.com/c/codeshikhi"> online courses </a>,
-                I am developing an effective method for learning programming languages. I am creating my courses on
-                Laravel, Vue.js, Nuxt.js, and Bootstrap.
+                I am working on creating <a class="text-blue-700 dark:text-blue-400" target="_blank" href="https://youtube.com/c/codeshikhi"> online courses, </a> and sharing my experiences, startup journey, entrepreneur mindset on my 
+                <a target="_blank" class="text-blue-700 dark:text-blue-400" href="https://youtube.com/@devzakir">youtube channel</a>.
+
               </p>
               <p class="mb-2">
-                Before that, I used work in a Japanese company back in 2018. Then I started working as a
-                freelancer working in different marketplaces like
-                <a class="text-blue-700 dark:text-blue-400" href="https://www.fiverr.com/zakir18">
-                Fiverr </a>,
-                <a class="text-blue-700 dark:text-blue-400" href="https://www.upwork.com/freelancers/~014e565b3a8183bd74">Upwork</a>
-                ! Where I have worked with over 80+ clients.</p>
+                Are you curious mind, want to know about my <nuxt-link class="text-blue-700 dark:text-blue-400" to="/target">
+                next traget? </nuxt-link> I have pretty past record of moving forward with career. If you want to learn about life journey, head on to my
+                <nuxt-link class="text-blue-700 dark:text-blue-400" to="/timeline"> My Life Journey </nuxt-link> timeline.
+              </p>
               <p class="mb-2">
-                I've also started and worked on many other projects that unfortunately never saw the light
-                of day, like <a target="_blank" class="text-blue-700 dark:text-blue-400" href="https://www.facebook.com/joybazarbd/"> Joybazar </a>, <a href="https://web.archive.org/web/20180823210352/https://besthammockchair.com/" class="text-blue-700 dark:text-blue-400" target="_blank">Best Hammock Chair</a>, or Podcast.</p>
+                Check out some of my favourite life 
+                <nuxt-link class="text-blue-700 dark:text-blue-400" to="/quotes"> changing quotes </nuxt-link> & 
+                <nuxt-link class="text-blue-700 dark:text-blue-400" to="/quotes"> resources  </nuxt-link> & I use as a developer back in the day.
+              </p>
               <p>
-                If you've reached this point, you probably want to learn more about <a target="_blank" href="/projects" class="text-blue-700 dark:text-blue-400">my projects</a>. You can also follow me on
-                <a class="text-blue-700 dark:text-blue-400" href="https://facebook.com/devzakir">
-                  Facebook
-                </a>
-                , where I actively share what I'm working on, or
-                <a class="text-blue-700 dark:text-blue-400" href="https://www.youtube.com/c/zakirhossen">
-                  subscribe to my Youtube
-                </a>
-                to get regular updates on my projects. <a href="/timeline" class="text-blue-700 dark:text-blue-400 underline">Learn More</a>
+                I am looking for a special person to join my team, check more details here. 
+                <nuxt-link class="text-blue-700 dark:text-blue-400" to="/work"> Join my team </nuxt-link>
               </p>
             </div>
             <div class="flex gap-4 mt-6 flex-wrap md:flex-nowrap">
