@@ -7,7 +7,7 @@
             All Projects
           </h1>
           <p class="lg:w-1/2 w-full leading-relaxed text-gray-500 dark:text-gray-400">
-            Learn about my previous and current projects I have worked on.
+            Learn about my previous and current projects I am working on.
           </p>
         </div>
       </div>
@@ -21,7 +21,7 @@
           </h1>
           <p class="mb-8 leading-relaxed"> {{ item.description }} </p>
           <div class="flex justify-center">
-            <a :href="item.url" target="_blank" class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Visit Now</a>
+            <a :href="item.url" target="_blank" class="inline-flex text-white bg-indigo-500 border-0 py-2 px-6 focus:outline-none hover:bg-indigo-600 rounded text-lg">Learn more</a>
           </div>
         </div>
         <div class="lg:max-w-lg lg:w-full md:w-1/2 w-5/6" :class="index % 2 === 1 ? 'order-1' : ''">
