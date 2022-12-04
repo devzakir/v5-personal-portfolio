@@ -29,7 +29,7 @@
           </div>
           <div>
             <h3 class="text-xl uppercase text-gray-700 dark:text-gray-300">
-              👋 Hi, I am Zakir
+              👋 Hello, I am Zakir
             </h3>
             <div class="content dark:text-white" >
               <h3 class="text-4xl mb-4"> I am a 23-years-old entrepreneur!</h3>
@@ -37,30 +37,27 @@
                 <a class="text-blue-700 dark:text-blue-400" target="_blank" href="https://templatecookie.com" title="A brand focused on creating finest digital products to improve small business owners daily life.">Templatecookie.com, </a>
                 <a class="text-blue-700 dark:text-blue-400" target="_blank" href="https://echotemplate.com" title="A HTML, Figma template marketplace with 100+ quality free products.">Echotemplate.com</a> & 
                 <a class="text-blue-700 dark:text-blue-400" target="_blank" href="https://youtube.com/@codeshikhi" title="An eLearning focused company with a vision of creating skilled manpower.">@Codeshikhi.</a>
-                These brands serves under the <a class="text-blue-700 dark:text-blue-400" target="_blank" href="https://lomeyo.com">Lomeyo.com</a>.
-                See all my 
-                <nuxt-link class="text-blue-700 dark:text-blue-400" to="/projects">projects</nuxt-link> here.
-
-                
+                These brands serves under the name of <a class="text-blue-700 dark:text-blue-400" target="_blank" href="https://lomeyo.com">Lomeyo.com</a>.
+                See all my
+                <nuxt-link class="text-blue-700 dark:text-blue-400" to="/projects"> projects</nuxt-link> here.
               </p>
               <p class="mb-2">
-                I am working on creating <a class="text-blue-700 dark:text-blue-400" target="_blank" href="https://youtube.com/c/codeshikhi"> online courses, </a> and sharing my experiences, startup journey, entrepreneur mindset on my 
+                I am working on creating <a class="text-blue-700 dark:text-blue-400" target="_blank" href="https://youtube.com/c/codeshikhi"> online courses, </a> and sharing my experiences, startup journey, entrepreneurship tips on my 
                 <a target="_blank" class="text-blue-700 dark:text-blue-400" href="https://youtube.com/@devzakir">youtube channel</a>.
-
               </p>
               <p class="mb-2">
-                Are you curious mind, want to know about my <nuxt-link class="text-blue-700 dark:text-blue-400" to="/target">
-                next traget? </nuxt-link> I have pretty past record of moving forward with career. If you want to learn about life journey, head on to my
+                Are you curious a mind, want to know more about my <nuxt-link class="text-blue-700 dark:text-blue-400" to="/target">
+                next traget? </nuxt-link> I have pretty fast record of moving forward with career. If you want to learn more about my life journey, head on to
                 <nuxt-link class="text-blue-700 dark:text-blue-400" to="/timeline"> My Life Journey </nuxt-link> timeline.
               </p>
               <p class="mb-2">
-                Check out some of my favourite life 
-                <nuxt-link class="text-blue-700 dark:text-blue-400" to="/quotes"> changing quotes </nuxt-link> & 
-                <nuxt-link class="text-blue-700 dark:text-blue-400" to="/quotes"> resources  </nuxt-link> & I use as a developer back in the day.
+                Checkout some of my favourite life
+                <nuxt-link class="text-blue-700 dark:text-blue-400" to="/quotes"> changing quotes </nuxt-link> &
+                <nuxt-link class="text-blue-700 dark:text-blue-400" to="/quotes"> resources  </nuxt-link> available for web develoeprs.
               </p>
               <p>
-                I am looking for a special person to join my team, check more details here. 
-                <nuxt-link class="text-blue-700 dark:text-blue-400" to="/work"> Join my team </nuxt-link>
+                I am looking for a special person to join my team, Do you want to
+                <nuxt-link class="text-blue-700 dark:text-blue-400" to="/work"> Join my team? </nuxt-link>
               </p>
             </div>
             <div class="flex gap-4 mt-6 flex-wrap md:flex-nowrap">
