@@ -62,19 +62,19 @@ export default {
         },
         {
           id: 3,
-          name: 'Next Target',
-          url: '/target',
+          name: 'My next goal',
+          url: '/goal',
           target: '_self'
         },
         {
           id: 3,
-          name: 'My Projects',
+          name: 'My Experiments',
           url: '/projects',
           target: '_self'
         },
         {
           id: 4,
-          name: 'My Life Journey',
+          name: 'Journey of my life',
           url: '/timeline',
           target: '_self'
         },

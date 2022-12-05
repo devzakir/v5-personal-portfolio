@@ -3,7 +3,7 @@
     <div class="py-16 bg-gray-100 dark:bg-gray-900 dark:border-b-gray-800 border-b">
         <div class="max-w-5xl mx-auto px-6 lg:px-0">
         <div class="flex flex-wrap w-full flex-col items-center text-center">
-            <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900 dark:text-white"> 
+            <h1 class="sm:text-3xl text-2xl font-medium title-font mb-2 text-gray-900 dark:text-white">
             My Career Timeline
             </h1>
             <p class="lg:w-1/2 w-full leading-relaxed text-gray-500 dark:text-gray-400">The only impossible journey is the one you never begin. Life is a journey and every chapter is very interesting </p>

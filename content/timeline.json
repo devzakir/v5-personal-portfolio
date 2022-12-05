@@ -3,67 +3,80 @@
     "year": "2015",
     "title": "Graduate from High School",
     "date": "February 2015",
-    "description": "I graduated from the Charia High School with a SSC in Humanities and a computer in optional."
+    "description": "I graduated from Charia High School with a SSC in Humanities and a computer elective."
   },
   {
     "year": "2015",
     "title": "Admission to Versity",
     "date": "July 2015",
-    "description": "I was accepted to the National Polytechnic Institute (NPI) in the Computer Technology."
+    "description": "I was accepted to the National Polytechnic Institute (NPI) in computer technology."
+  },
+  {
+    "year": "2015",
+    "title": "Bought my First Computer",
+    "date": "July 2015",
+    "description": "I bought my first computer, which was a Dell laptop. It cost me around 33,500 BDT. I was excited and finally ready to learn how to operate a computer."
   },
   {
     "year": "2017",
     "title": "Left Collage",
     "date": "February 2017",
-    "description": "I was learning a lot and started freelancing as web designer, soon after I decided to focus on web design skills and did not attend 4th semester final example. "
+    "description": "I was learning a lot and started freelancing as a web designer. Soon after, I decided to focus on my web design skills and did not attend the 4th semester final."
   },
   {
     "year": "2017",
     "title": "Getting First Job as Web Designer",
     "date": "September 2017",
-    "description": "I started working as a web designer at a multinational company. It was my first job and I was so excited to join there. At that time I was 18.5 years old."
+    "description": "I started working as a web designer at a multinational company. It was my first job, and I was so excited to join them. At that time, I was 18.5 years old."
   },
   {
     "year": "2018",
     "title": "Left Jobs and started Affiliate Marketing",
     "date": "August 2018",
-    "description": "Starting of 2018, I was learning PHP to become a full-stack web developer. Eventually I started a amazon affiliate marketing as a side project and I wasn't doing good enough. On July 2018 I decided to leave the company and focus on my side project."
+    "description": "Starting in 2018, I was learning PHP to become a full-stack web developer. Eventually I started an Amazon affiliate marketing business as a side project, and I wasn't doing well enough. On July 1, 2018, I decided to leave the company and focus on my side project."
   },
   {
     "year": "2019",
     "title": "Started Freelancing as Full-stack Developer",
     "date": "February 2022",
-    "description": "My side project didn't do well, after 2 months of doing or so I got demotivated and decided to focus on learning Laravel, PHP & Mysql. After 5 months of learning I started freelancing as a full-stack web developer in Feburary, 2019."
+    "description": "My side project didn't do well; after 10 months of doing so, I got demotivated and decided to focus on learning Laravel, PHP, and MySQL. After 5 months of learning, I started freelancing as a full-stack web developer in February 2019."
   },
   {
     "year": "2020",
     "title": "Hired First Employee",
     "date": "June 2020",
-    "description": "I was doing a fulltime job and a partime job. Besides this I got project offer worth of $4000 usd and I couldn't resist that offer. It was my biggest project so far and I pretty confident I can finish. I was so busy and I hired someone to work with me."
+    "description": "I was doing a full-time job and a part-time job. Besides this, I got a project offer worth $4000 USD, and I couldn't resist that offer. It was my biggest project so far and I'm pretty confident I can finish it. I was so busy that I hired someone to work with me."
   },
   {
     "year": "2020",
     "title": "Created My First Software Company",
     "date": "October 2022",
-    "description": "My first hiring didn't go well and I decided to start a company after discussing with my friend Khayrul Shanto. At that time, Khyrul was learning PHP & Laravel from me and he helped me a lot with brainstroming how we can get started and we did after 2 months of working together."
+    "description": "My first hiring didn't go well, and I decided to start a company after discussing it with my friend Khayrul Islam. At that time, Khyrul was learning PHP and Laravel from me, and he helped me a lot with brainstorming how we could get started, which we did after 2 months of working together."
   },
   {
     "year": "2021",
     "title": "Dropout from Collage",
     "date": "January 2021",
-    "description": "My family, friends push me a lot to complete Diploma (at least). After failing in 4th semester for 2 times, I wasn't ready to pay 25 thousand BDT for 3rd time attempt, specially when my business was not doing well. I decided to drop out from collage and start a new life."
+    "description": "My family, friends push me a lot to complete my diploma (at least). After failing in the 4th semester two times, I wasn't ready to pay 25 thousand BDT for a 3rd attempt, especially when my business was not doing well. I decided to drop out of college and start a new life."
   },
   {
     "year": "2021",
     "title": "Getting Married",
     "date": "July 2021",
-    "description": "I was so frustrated running a company, working with clients, working on my side projects echotemplate, codeshikhi & templatecookie. I couldn't help myself as I was engaged computer related acitivies 24/7. I decided to get married and I am so happy to be married."
+    "description": "I was so frustrated with running a company, working with clients, and working on my side projects, echotemplate, codeshikhi, and templatecookie. I couldn't help myself, as I was engaged in computer-related activities 24/7. I decided to get married and I am so happy to be married."
   },
   {
     "year": "2022",
     "title": "Closing Zakirsoft",
     "date": "August 2022",
     "latest": true,
-    "description": "I am closing my first company Zakirsoft after almost 2 years of working on it. I had started with my friends and family. It has a emotional attachment with me. I did so many mistakes, I have many projects on my hand, My life, routine is not organized at all. It is time to get everything in order, I want to focus few specific personal/professional projects."
+    "description": "I am closing my first company, Zakirsoft, after almost two years of working on it. I began with my friends and family, and it holds an emotional significance for me.I made so many mistakes, I had many projects on my hands, and my life and routine were not organized at all. It is time to get everything in order. I want to focus on a few specific personal and professional projects."
+  },
+  {
+    "year": "2022",
+    "title": "New Startup Lomeyo.com",
+    "date": "October 2022",
+    "latest": true,
+    "description": "Lomeyo.com is building innovative solutions for a simpler and more efficient life. Our mission is to make technology way better and empower small businesses by providing top-notch products and services."
   }
 ]
