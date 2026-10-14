@@ -1,0 +1,13 @@
+{
+  "framework": null,
+  "installCommand": "echo skip",
+  "buildCommand": "mkdir -p out && echo redirect > out/index.html",
+  "outputDirectory": "out",
+  "redirects": [
+    {
+      "source": "/(.*)",
+      "destination": "https://zakirhossen.com/",
+      "permanent": true
+    }
+  ]
+}

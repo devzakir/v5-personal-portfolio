@@ -20,5 +20,8 @@
   },
   "dependencies": {
     "flowbite": "^1.5.1"
+  },
+  "engines": {
+    "node": "22.x"
   }
 }
